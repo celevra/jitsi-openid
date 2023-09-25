@@ -7,6 +7,7 @@ simple Script to integrate openid with jisti, the flow is as follow:
 
 # installation
 create a client in keycloak
+
 <img width="413" alt="image" src="https://github.com/celevra/jitsi-openid/assets/232437/d9eafdcd-8293-450d-a420-0843ea0de347">
 
 copy the secret under credentials
