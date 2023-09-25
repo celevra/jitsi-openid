@@ -29,7 +29,7 @@ app.use(
 //------------------ openId Connect --------------------------
 
 
-const jwtSecret = 'bQm57pORfMwozJLiKe3zGD8CSS0Zo9Aq'
+const jwtSecret = 'same as in jitsi env file'
 const jitsiURL = 'meet.xxx.net'
 
 //------------------ don't change below this line ------------
